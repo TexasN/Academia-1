@@ -26,6 +26,6 @@
 |:-------|:----|-------|:-----:|:---:|:------:|:------:|:--------------|
 | SGD | 171 | Precalculus Algebra  | 2 | 3 | 0 | 3 | Placement Test |
 | SGD | 116 | Graphic Design Tools | 2 | 3 | 0 | 3 | CIS-070 and DMA-040 |
-| SGD | 112 | SGD Design           | 2 | 3 | 0 | 3 | Placement Test |
-| SGD | 111 | Introduction to SGD  | 2 | 3 | 0 | 3 | None |
+| SGD | 112 | SGD Design           | 2 | 3 | 0 | 3 | CIS-070 |
+| SGD | 111 | Introduction to SGD  | 2 | 3 | 0 | 3 | CIS-070 |
 
