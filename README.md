@@ -1,6 +1,22 @@
 # Academia
 Online, *.edu, or self taught asignments, projects, homework, etc.
 
+
+
+---
+layout:     post
+title:      "My First Post"
+subtitle:   "This is My First Post"
+date:       2018-09-07 22:40:00
+author:     "Gooshie"
+header-img: "assets/owner/blog/header/post-bg-01.jpg"
+thumbnail: /assets/owner/blog/thumbs/thumb01.png
+tags: [tag-name-one, tag-name-two]
+categories: [cat01, cat02]
+---
+
+
+
 ## 2018 - Fall
 - SGD-162
 - SGD-174
