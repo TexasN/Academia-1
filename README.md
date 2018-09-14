@@ -16,6 +16,7 @@ categories: [cat01, cat02]
 ---
 
 | Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites |
+|:-------|:----|------:|:------|:----|:------:|:------:|:--------------|
 | SGD | 162 | 3D Animation | 2 | 3 | 0 | 3 | None |
 
 ## 2018 - Fall
