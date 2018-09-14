@@ -1,29 +1,13 @@
 # Academia
 Online, *.edu, or self taught asignments, projects, homework, etc.
 
-
-
----
-layout:     post
-title:      "My First Post"
-subtitle:   "This is My First Post"
-date:       2018-09-07 22:40:00
-author:     "Gooshie"
-header-img: "assets/owner/blog/header/post-bg-01.jpg"
-thumbnail: /assets/owner/blog/thumbs/thumb01.png
-tags: [tag-name-one, tag-name-two]
-categories: [cat01, cat02]
----
-
-| Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites |
-|:-------|:----|------:|:------|:----|:------:|:------:|:--------------|
-| SGD | 162 | 3D Animation | 2 | 3 | 0 | 3 | None |
-
 ## 2018 - Fall
-- SGD-162
-- SGD-174
-- SGD-213
-- SGD-214
+| Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites |
+|:-------|:----|-------|:-----:|:---:|:------:|:------:|:--------------|
+| SGD | 213 | Programming II | 2 | 3 | 0 | 3 | SGD-113 |
+| SGD | 214 | Modeling II    | 2 | 3 | 0 | 3 | SGD-114 |
+| SGD | 174 | Level Design   | 2 | 3 | 0 | 3 | SGD-112 |
+| SGD | 162 | 3D Animation   | 2 | 3 | 0 | 3 | None |
 
 ## 2018 - Spring
 - SGD-172
