@@ -1,7 +1,7 @@
 # Academia
-Online, *.edu, or self taught asignments, projects, homework, etc.
+## Online, *.edu, or self taught asignments, projects, homework, etc.
 
-## 2018 - Fall
+| 2018 - Fall |
 | Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites |
 |:-------|:----|-------|:-----:|:---:|:------:|:------:|:--------------|
 | SGD | 213 | SGD Programming II | 2 | 3 | 0 | 3 | SGD-113 |
