@@ -18,7 +18,7 @@
 | SGD | 113 | SGD Programming         | 2 | 3 | 0 | 3 | SGD-113 |
 | SGD | 114 | 3D Modeling             | 2 | 3 | 0 | 3 | SGD-113 |
 | SGD | 212 | SGD Design II           | 2 | 3 | 0 | 3 | SGD-113 |
-| SGD | 172 | Virtual SG Environments | 2 | 3 | 0 | 3 | SGD-113 |
+| SGD | 172 | Virtual SG Environments | 2 | 3 | 0 | 3 | SGD-113           |
 
 
 ### 2017 - Fall
