@@ -8,7 +8,7 @@ Online, *.edu, or self taught asignments, projects, homework, etc.
 - SGD-214
 
 ## 2018 - Spring
-- SGD-171
+- SGD-172
 - SGD-212
 - SGD-113
 - SGD-114
