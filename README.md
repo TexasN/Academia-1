@@ -4,7 +4,7 @@
 
 
 ### 2018 - Fall
-| Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites  &nbsp;  |
+| Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites &nbsp; &nbsp; &nbsp; |
 |:-------|:----|-------|:-----:|:---:|:------:|:------:|:-----------------|
 | SGD | 213 | SGD Programming II | 2 | 3 | 0 | 3 | SGD-113 |
 | SGD | 214 | 3D Modeling II     | 2 | 3 | 0 | 3 | SGD-114 |
@@ -13,7 +13,7 @@
 
 
 ### 2018 - Spring
-| Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites    |
+| Prefix | No. | Title | Class | Lab | Clinic | Credit | Prerequisites &nbsp; &nbsp; &nbsp; |
 |:-------|:----|-------|:-----:|:---:|:------:|:------:|:-----------------|
 | SGD | 113 | SGD Programming         | 2 | 3 | 0 | 3 | SGD-113 |
 | SGD | 114 | 3D Modeling             | 2 | 3 | 0 | 3 | SGD-113 |
